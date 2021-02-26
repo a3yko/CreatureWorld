@@ -1,0 +1,13 @@
+D:\Projects\CreatureWorld\bin\Debug\CreatureWorld.exe.config
+D:\Projects\CreatureWorld\bin\Debug\CreatureWorld.exe
+D:\Projects\CreatureWorld\bin\Debug\CreatureWorld.pdb
+D:\Projects\CreatureWorld\obj\Debug\CreatureWorld.csprojAssemblyReference.cache
+D:\Projects\CreatureWorld\obj\Debug\MainWindow.baml
+D:\Projects\CreatureWorld\obj\Debug\MainWindow.g.cs
+D:\Projects\CreatureWorld\obj\Debug\App.g.cs
+D:\Projects\CreatureWorld\obj\Debug\CreatureWorld_MarkupCompile.cache
+D:\Projects\CreatureWorld\obj\Debug\CreatureWorld.g.resources
+D:\Projects\CreatureWorld\obj\Debug\CreatureWorld.Properties.Resources.resources
+D:\Projects\CreatureWorld\obj\Debug\CreatureWorld.csproj.GenerateResource.cache
+D:\Projects\CreatureWorld\obj\Debug\CreatureWorld.exe
+D:\Projects\CreatureWorld\obj\Debug\CreatureWorld.pdb
